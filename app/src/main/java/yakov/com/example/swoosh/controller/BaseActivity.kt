@@ -1,4 +1,4 @@
-package yakov.com.example.swoosh
+package yakov.com.example.swoosh.controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
