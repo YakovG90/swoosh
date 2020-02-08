@@ -15,4 +15,6 @@
     <string name="beginner_choice_txt">BEGINNER</string>
     <string name="baller_choice_text">BALLER</string>
     <string name="finish_btn_txt">FINISH</string>
+    <string name="search_league">Looking for a co-ed beginner league near you…</string>
+    <string name="search_league_actual">Looking for a %1$s %2$s league near you…</string>
 </resources>
